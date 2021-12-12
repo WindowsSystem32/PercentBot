@@ -1,3 +1,4 @@
+//Windows(https://open.kakao.com/me/Windows, https://github.com/WindowsSystem32)가 제작함, CC-BY-NC-SA
 function dc (on, off) {
   if (on == undefined || on == null) {
     on = "■";
